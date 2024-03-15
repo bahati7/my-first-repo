@@ -1,2 +1,2 @@
-# my-first-repo
+# hello world
 this repo is for educational purposes only
